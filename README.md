@@ -1,18 +1,17 @@
-# Cryptocurrency Derivatives Trading: A Data-Driven Approach
-
-Welcome to our data science project, where we dive deep into the fascinating world of cryptocurrency derivatives trading through a structured exploration and analysis of pertinent data.🚀📈
+# Exploring Cryptocurrency Derivatives Trading with Data
+Welcome to our data science project, where we take a closer look at cryptocurrency derivatives trading using data analysis. 🚀📈
 
 ## Project Overview 🌐
-This repository embodies a multi-faceted approach towards understanding and maneuvering through the labyrinthine pathways of cryptocurrency derivatives trading. It amalgamates data engineering, predictive modeling, and inventive data exploration to shed light on potential trading strategies, risk management, and insightful analyses, ensuring a holistic approach towards cryptocurrency derivatives trading.
+In this project, we'll explore cryptocurrency derivatives trading from different angles. We'll use data engineering, predictive modeling, and creative data analysis to uncover trading strategies, manage risks, and gain valuable insights.
 
-## Assignment Overview 📚 
-Embarked upon a 4-hour challenging journey, the assignment, accessible here, was structured around three pivotal questions, each designed to tap into diverse aspects of data science and engineering:
+## Assignment Overview 📚
+During this 4-hour assignment, we tackled three key questions to explore various aspects of data science and engineering:
 
 - **Q1: Data Engineering Skills 🛠️**\
-Diving deep into the world of data manipulation, transformation, and cleaning, ensuring the data is aptly structured and refined for subsequent analyses.
+We delved into data manipulation, transformation, and cleaning to make sure our data is well-organized and ready for analysis.
 
 - **Q2: Functions and Regression 📉**\
-Crafting and implementing functions and regression models to unravel patterns, understand relationships between variables, and potentially predict future prices within the cryptocurrency trading sphere.
+We created and applied functions and regression models to discover patterns, understand relationships between variables, and potentially make predictions about future cryptocurrency prices.
 
 - **Q3: Creative Data Exploration and Analysis 🎨📊**\
-An open canvas to wield creative data exploration and analysis skills, unearthing hidden trends, insights, and narratives embedded within the cryptocurrency trading data.
+We had the freedom to creatively explore and analyze the data, uncovering hidden trends, insights, and stories within the world of cryptocurrency trading.
